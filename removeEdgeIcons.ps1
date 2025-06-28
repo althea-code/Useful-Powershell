@@ -1,5 +1,5 @@
 # Define the sequence of characters to look for (first few characters of the filename)
-$searchPrefix = "Microsoft Edge-COH"
+$searchPrefix = "Insert Filename here"
 
 # Get the path to the desktop folder for the current user
 $desktopPath = [System.Environment]::GetFolderPath('Desktop')
